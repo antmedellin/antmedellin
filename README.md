@@ -20,3 +20,5 @@ I am a Ph.D student at Texas A&M University in Mechanical Engineering with a foc
 - 🔭 Currently working on methods to efficiently process hyperspectral images and define the relationship between semantic classes for off-road autonomy 
 - [HyperTools](https://github.com/tamu-edu-students/HyperTools)
 - [ATLAS](https://github.com/tamu-edu/ORATOR-ATLAS)
+- 🌱 Currently learning C++, CUDA, Python, Docker
+- 📫 You can reach me to discuss my research or potential collaborations at antmedellin@tamu.edu
