@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## About Me
 I am a Ph.D student at Texas A&M University in Mechanical Engineering with a focus on Computer Vision. 
 - 🔭 Currently working on methods to efficiently process hyperspectral images and define the relationship between semantic classes for off-road autonomy 
-- [HyperTools])https://github.com/tamu-edu-students/HyperTools)
+- [HyperTools](https://github.com/tamu-edu-students/HyperTools)
 - [ATLAS](https://github.com/tamu-edu/ORATOR-ATLAS)
